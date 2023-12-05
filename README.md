@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=David Mansion&height=100&section=header"/>
+</p>
+
 # 💫 About Me:
 📝 I regularly write articles on https://medium.com/@info_56991<br><br>📫 How to reach me Telegram @davodavodavo<br><br>⚡ Fun fact I think I am funny but I am just pathetic really!
 
