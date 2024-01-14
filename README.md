@@ -22,6 +22,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=davidmansion&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmansion&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<h3>💥My early learning repositories</h3>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidmansion&repo=html-portfolio&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/davidmansion/html-portfolio)
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
