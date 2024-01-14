@@ -25,6 +25,8 @@
 <h3>💥My early learning repositories</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidmansion&repo=html-portfolio&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/davidmansion/html-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidmansion&repo=My-Resume&theme=chartreuse-dark&Text=FFFFFF)](https://github.com/davidmansion/My-Resume)
+
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
