@@ -1,6 +1,7 @@
 <div class='row'>
   <a>
 <img src="https://github.com/net2devcrypto/misc/blob/main/bsc.png" width="150" height="40"/>
+<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/sol-logo.png" width="150" height="40"/>
 </a>
   </div>
 
